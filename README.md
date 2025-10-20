@@ -103,6 +103,14 @@ Autor: **Alan Beltrán**
 Basado en el trabajo colaborativo del equipo de robótica planar (UDLAP).
 Licencia: [MIT](LICENSE)
 
+## Contacto
+
+Para dudas o comentarios sobre el código:
+- 📧 **alanbeltran1202@gmail.com**  
+- 📧 **alan.beltrandn@udlap.mx**
+
+También se pueden dejar *issues* o sugerencias directamente en el repositorio.
+
 ---
 
 ```
